@@ -1,0 +1,65 @@
+# 🔐 Environment variables
+
+.env
+.env.*
+
+# 🐍 Virtual environments
+
+venv/
+env/
+ENV/
+
+# 🧠 Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# 📦 Build files
+
+build/
+dist/
+*.egg-info/
+
+# 🧾 Logs
+
+*.log
+
+# 💻 OS files
+
+.DS_Store
+Thumbs.db
+
+# 🧪 Jupyter checkpoints
+
+.ipynb_checkpoints/
+
+# ⚙️ VS Code
+
+.vscode/
+
+# 📂 Project temp/output folders
+
+temp/
+outputs/
+
+# 🔥 Streamlit cache
+
+.streamlit/
+
+# 🧠 Model files
+
+*.pt
+*.bin
+*.ckpt
+
+# 📊 Data files (optional)
+
+*.csv
+*.xlsx
+
+# 🚫 Misc
+
+*.bak
+*.swp

@@ -1,0 +1,9 @@
+whisperx
+pyannote.audio
+transformers>=4.35.0
+streamlit>=1.28.0
+yt-dlp
+plotly>=5.0.0
+python-dotenv
+faster-whisper
+pandas  # CRITICAL: Added for Diarization-WhisperX compatibility
